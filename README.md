@@ -1,5 +1,7 @@
 # LaptopPricePrediction
 
+<img src="https://m.media-amazon.com/images/I/718ETwvLVOL._SY355_.jpg" >
+
 ## Quick Intro
 Enclosed is a Jupyter Notebook which uses various Machine Learning Models to predict the price of a laptop.
 
